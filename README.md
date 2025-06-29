@@ -1,4 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Vini (aka gouineblade)
+
+🎓 Master Degree IT  
+💼 PHP/Symfony Developer, increasingly embracing DevOps challenges.
+
+🖥️ **Favorite Tech**  
+- Big fan of Proton, which lets me play most PC games on my Linux distro!
+
+🎮 **Interests**  
+- Video games  
+- Wildlife documentaries
+- Tinkering with computers
+
+🔗 **Connect with me:**  
+[LinkedIn](https://www.linkedin.com/in/vini-praion/)
 
 <!--
 **gouineblade/gouineblade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
